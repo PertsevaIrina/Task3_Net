@@ -1,0 +1,9 @@
+﻿Rest; Car, Motorcycle; 3; 10
+Excursion; Bus; 0; 1
+Rest; Car; 3; 12
+Therapy; Bus; 2; 7
+Shopping; Car; 0; 2
+Cruise; Boat; 4; 3
+Shopping; Car, Bus; 0; 1
+Cruise; Boat; 3; 2
+Cruise; Boat; 4; 5
